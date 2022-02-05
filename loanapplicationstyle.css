@@ -1,0 +1,17 @@
+.collapsedtable
+{
+    border-collapse: collapse;
+    border: 3px solid;
+}
+.table1
+{
+    margin-left: 40px;
+}
+.total
+{
+    background-color: rgb(255, 255, 255);
+}
+.submitbutton
+{
+    margin-left: 50%;
+}
